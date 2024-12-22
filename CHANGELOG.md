@@ -1,3 +1,19 @@
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+## [3.1.0](https://github.com/binbashar/ansible-role-vault/compare/v3.0.0...v3.1.0) (2024-12-22)
+
+### Features
+
+* **GHA:** add commitlint and semrel ([#362](https://github.com/binbashar/ansible-role-vault/issues/362)) ([d5bae97](https://github.com/binbashar/ansible-role-vault/commit/d5bae97c79a783b2b7044d3b166dd2f0495666e9))
+
+### Bug Fixes
+
+* **semrel:** fix branch ([#363](https://github.com/binbashar/ansible-role-vault/issues/363)) ([ec91b6c](https://github.com/binbashar/ansible-role-vault/commit/ec91b6ca1bc61444be0cf8b916ba4ebce6608962))
+* **semrel:** fix branch ([#364](https://github.com/binbashar/ansible-role-vault/issues/364)) ([2c87dd4](https://github.com/binbashar/ansible-role-vault/commit/2c87dd4a372defffa77670dab6ce00cbd3ae219d))
+* **smerel:** bump changelog to 8.0.0 ([#365](https://github.com/binbashar/ansible-role-vault/issues/365)) ([7e2fded](https://github.com/binbashar/ansible-role-vault/commit/7e2fdeddec3405756aae10f1dedcace4ba94779b))
+
 ## NEXT
 
 - Add support for proxy configuration
